@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -42,17 +42,17 @@
         }
         .about-me .section-title::before,
         .about-me .section-title::after {
-            content: "??";
+            content: "💼";
             margin: 0 10px;
         }
         .projects .section-title::before,
         .projects .section-title::after {
-            content: "??";
+            content: "🎮";
             margin: 0 10px;
         }
         .contact .section-title::before,
         .contact .section-title::after {
-            content: "??";
+            content: "📋";
             margin: 0 10px;
         }
         .about-me {
